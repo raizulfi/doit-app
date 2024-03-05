@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: (_) => ({
-        'custom-background':"url('/assets/crossingbackground.jpg')"
+        'custom-background':"url('./assets/crossingbackground.jpg')"
       })
     },
   },
